@@ -2,10 +2,6 @@
 
 <h3 align="center">B.Tech CSE Student | Python Developer | Django Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Developer;Web+Development+Learner;Open+Source+Enthusiast;Future+Software+Engineer" />
-</p>
-
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 💫 About Me
