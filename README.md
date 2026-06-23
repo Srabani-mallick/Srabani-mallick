@@ -75,11 +75,4 @@
 </p>
 
 ---
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&theme=tokyo-night" />
-</p>
-
----
 ⭐ If you like my projects, don't forget to star them!
