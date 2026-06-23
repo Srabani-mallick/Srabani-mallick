@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE Student | Python Developer | Django Enthusiast</h3>
 </p>
 <img align="right" width="350"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ## 👩‍💻 About Me
 
