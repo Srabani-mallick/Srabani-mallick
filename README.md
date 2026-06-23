@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srabani Mallick</h1>
 
 <h3 align="center">B.Tech CSE Student | Python Developer | Django Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Django+Developer;DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👩‍💻 About Me
 
