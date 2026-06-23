@@ -2,9 +2,6 @@
 
 <h3 align="center">B.Tech CSE Student | Python Developer | Django Enthusiast</h3>
 
-<img align="right" alt="Developer" width="400"
-src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
-
 ## 💫 About Me
 
 🎓 B.Tech CSE Student at ITER, SOA University
