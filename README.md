@@ -51,9 +51,7 @@
 
 # 💻 PROGRAMMING LANGUAGES
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
 # 🛠 TOOLS
@@ -77,27 +75,10 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&theme=tokyo-night" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
