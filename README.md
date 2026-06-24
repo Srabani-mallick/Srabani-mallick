@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Srabani%20Mallick&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20run%20on%20the%20web%20🌐&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
-
+<img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
 <a href="https://github.com/Srabani-mallick?tab=followers">
 <img src="https://img.shields.io/github/followers/Srabani-mallick?label=Followers&style=flat-square&color=06b6d4" alt="followers"/>
 </a>
