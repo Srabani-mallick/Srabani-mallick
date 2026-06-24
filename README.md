@@ -5,9 +5,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
-
- 
-
 <a href="https://github.com/Srabani-mallick?tab=followers">
 <img src="https://img.shields.io/github/followers/Srabani-mallick?label=Followers&style=flat-square&color=06b6d4" alt="followers"/>
 </a>
@@ -79,7 +76,6 @@ class Srabani:
 ### Frameworks & Libraries
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django%20Channels-WebSockets-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
 ### Databases & Tools
@@ -111,12 +107,6 @@ class Srabani:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </div>
 
 ---
@@ -128,3 +118,5 @@ class Srabani:
 *"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
+
+⭐ If you like my projects, don't forget to star them!
