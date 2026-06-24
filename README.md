@@ -95,66 +95,6 @@ class Srabani:
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Whodunit Live
-> Real-time multiplayer murder mystery game
-
-- ⚡ Django Channels + WebSockets
-- 🎮 Live game rooms, role assignment
-- 🕵️ Interactive mystery narrative engine
-- 🧠 Full backend game state management
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Multi-Disease Predictor
-> ML-powered health prediction app
-
-- 🤖 scikit-learn models (70–80% accuracy)
-- 🩺 Predicts diabetes, heart disease & more
-- 📊 Real dataset training, no overfitting
-- 🌐 Django frontend + REST-style views
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 Student ERP System
-> 10-module enterprise resource platform
-
-- 🏗️ Role-based dashboards (Admin, Faculty, Student)
-- 📚 Attendance, grades, timetable modules
-- 🔐 Django auth + custom permissions
-- 📱 Responsive UI
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Quiz & Exam Platform
-> Timed, auto-graded exam system
-
-- ⏱️ Countdown timer per exam
-- 🔀 Randomized question order
-- ✅ Instant auto-grading + result view
-- 👨‍🏫 Teacher panel to add/manage quizzes
-
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
@@ -183,18 +123,9 @@ class Srabani:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&hide_border=true" width="95%"/>
-
 </div>
 
 ---
