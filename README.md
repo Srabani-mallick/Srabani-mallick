@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
 <a href="https://github.com/Srabani-mallick?tab=followers">
 <img src="https://img.shields.io/github/followers/Srabani-mallick?label=Followers&style=flat-square&color=06b6d4" alt="followers"/>
 </a>
