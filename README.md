@@ -1,78 +1,209 @@
-<h1 align="center">👋 Hi, I'm Srabani Mallick</h1>
+<div align="center">
 
-<h3 align="center">B.Tech CSE Student | Python Developer | Django Enthusiast</h3>
+<!-- Animated Typing Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Srabani%20Mallick&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20run%20on%20the%20web%20%F0%9F%8C%90&descAlignY=58&descSize=18" width="100%"/>
 
-## 💫 About Me
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+ITER%2C+SOA+University;Django+%7C+Python+%7C+Full-Stack+Developer;Building+Internship-Ready+Projects+%F0%9F%9A%80;Open+to+SWE+Internship+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
+</a>
 
-🎓 B.Tech CSE Student at ITER, SOA University
+<br/>
 
-🌱 Currently Learning
-- Django
-- Full Stack Development
-- Data Structures & Algorithms
-- Open Source Contribution
+<!-- Profile Views + Follow -->
+<img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/Srabani-mallick?tab=followers">
+  <img src="https://img.shields.io/github/followers/Srabani-mallick?label=Followers&style=flat-square&color=06b6d4" alt="followers"/>
+</a>
 
-🚀 Current Projects
-- Linked List Implementation
-- Stack Implementation
-- Graph Algorithms
-
-🎯 Goal
-- Become a Full Stack Developer
-- Crack Software Engineering Internships
-  
+</div>
 
 ---
 
-# 🌍 CONNECT WITH ME
+<!-- About Me -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:06b6d4&height=2&section=header" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srabani-mallick)
----
+<table>
+<tr>
+<td valign="top" width="60%">
 
-# 🕸 WEB DEVELOPMENT
+### 🧠 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```python
+class Srabani:
+    name      = "Srabani Mallick"
+    alias     = "Sushree"
+    degree    = "B.Tech CSE — 4th Semester"
+    college   = "ITER, SOA University"
+    location  = "Odisha, India 🇮🇳"
 
----
+    stack     = ["Django", "Python", "SQLite", "HTML/CSS"]
+    ml_tools  = ["scikit-learn", "pandas", "numpy"]
+    learning  = ["REST APIs", "Docker", "React"]
 
-# ⚙ BACKEND DEVELOPMENT
+    goal      = "Land a Software Engineering Internship 🎯"
+    fun_fact  = "I debug best at midnight ☕"
+```
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td>
+<td valign="top" width="40%">
 
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
----
+### 🎯 Current Focus
 
-# 🗄 DATABASES
+- 🔨 Building full-stack Django web apps
+- 🤖 Integrating ML models into real projects
+- 🧩 Sharpening DSA with Java (arrays-only 💪)
+- 🌐 Growing open-source contributions
+- 📄 Internship-hunting mode: **ON**
 
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 📬 Connect With Me
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
+[![GitHub](https://img.shields.io/badge/GitHub-Srabani--mallick-181717?style=for-the-badge&logo=github)](https://github.com/Srabani-mallick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-# 💻 PROGRAMMING LANGUAGES
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
----
-
-# 🛠 TOOLS
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani-mallick&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&theme=tokyonight" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
-⭐ If you like my projects, don't forget to star them!
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django%20Channels-WebSockets-092E20?style=for-the-badge&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Whodunit Live
+> Real-time multiplayer murder mystery game
+
+- ⚡ Django Channels + WebSockets
+- 🎮 Live game rooms, role assignment
+- 🕵️ Interactive mystery narrative engine
+- 🧠 Full backend game state management
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Multi-Disease Predictor
+> ML-powered health prediction app
+
+- 🤖 scikit-learn models (70–80% accuracy)
+- 🩺 Predicts diabetes, heart disease & more
+- 📊 Real dataset training, no overfitting
+- 🌐 Django frontend + REST-style views
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Student ERP System
+> 10-module enterprise resource platform
+
+- 🏗️ Role-based dashboards (Admin, Faculty, Student)
+- 📚 Attendance, grades, timetable modules
+- 🔐 Django auth + custom permissions
+- 📱 Responsive UI
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Quiz & Exam Platform
+> Timed, auto-graded exam system
+
+- ⏱️ Countdown timer per exam
+- 🔀 Randomized question order
+- ✅ Instant auto-grading + result view
+- 👨‍🏫 Teacher panel to add/manage quizzes
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani-mallick&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=a855f7" width="60%"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=120&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
