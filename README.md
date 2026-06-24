@@ -38,8 +38,6 @@ class Srabani:
 
 <td valign="top" width="40%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="250"/>
-
 <br/><br/>
 
 ### 🎯 Current Focus
