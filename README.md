@@ -34,7 +34,6 @@ class Srabani:
 
     stack     = ["Django", "Python", "SQLite", "HTML/CSS"]
     ml_tools  = ["scikit-learn", "pandas", "numpy"]
-    learning  = ["REST APIs", "Docker", "React"]
 
     goal      = "Land a Software Engineering Internship 🎯"
     fun_fact  = "I debug best at midnight ☕"
