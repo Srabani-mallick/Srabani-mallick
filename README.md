@@ -65,13 +65,14 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 ---
 ---
 
-# 📊 GitHub Status
+# 📊 GitHub Stats
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani-mallick&theme=tokyonight&hide_border=true" width="70%"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a1a18&title_color=80cbc4&icon_color=ffcc80&text_color=ffffff"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&hide_border=true&bg_color=0a1a18&title_color=80cbc4&text_color=ffffff"/>
+
 </div>
 
 <div align="center">
@@ -85,7 +86,6 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&bg_color=0a1a18&color=80cbc4&line=ffcc80&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
----
 
 ### 🎲 fun facts about me
 
