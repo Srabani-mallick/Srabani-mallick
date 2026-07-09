@@ -65,7 +65,7 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 ---
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -86,13 +86,6 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabani-mallick&bg_color=0a1a18&color=80cbc4&line=ffcc80&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=darkhub&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ### 🎲 fun facts about me
