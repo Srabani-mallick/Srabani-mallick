@@ -53,11 +53,7 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 ---
 
 ### 🚀 currently working on
-
-- 🕵️ **Whodunit Live** — real-time multiplayer murder mystery *(Django Channels + WebSockets)*
 - 🤖 **ML Models Suite** — fake news detector + cyber threat classifier
-- 📊 **Smart Expense Tracker** — spending forecasting with anomaly detection
-
 ---
 
 ### 🤝 looking to collaborate on
