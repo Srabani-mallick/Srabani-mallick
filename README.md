@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=80cbc4&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%F0%9F%8E%93;Django+%2B+Python+Full+Stack+Dev+%F0%9F%90%8D;Building+real+apps%2C+not+just+tutorials+%F0%9F%94%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/Srabani-mallick?style=flat-square&color=e65100&label=followers)](https://github.com/Srabani-mallick)
-
+<img src="https://komarev.com/ghpvc/?username=Srabani-mallick&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
+<a href="https://github.com/Srabani-mallick?tab=followers">
+<img src="https://img.shields.io/github/followers/Srabani-mallick?label=Followers&style=flat-square&color=06b6d4" alt="followers"/>
+</a>
 </div>
 
 ---
