@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f3e5f5,100:e8f5e9&height=200&section=header&text=Srabani%20Mallick&fontSize=52&fontColor=4a4a4a&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Django%20Enthusiast&descSize=16&descAlignY=58&descColor=9c6b98" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,50:7b1fa2,100:00796b&height=200&section=header&text=Srabani%20Mallick&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Django%20Enthusiast&descSize=16&descAlignY=58&descColor=f8bbd0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=b57bee&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%F0%9F%8E%93;Django+%2B+Python+Full+Stack+Dev+%F0%9F%90%8D;Building+real+apps%2C+not+just+tutorials+%F0%9F%94%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ce93d8&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%F0%9F%8E%93;Django+%2B+Python+Full+Stack+Dev+%F0%9F%90%8D;Building+real+apps%2C+not+just+tutorials+%F0%9F%94%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Srabani-mallick&style=flat-square&color=c9a0dc&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Srabani-mallick&style=flat-square&color=ad1457&label=profile+views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Srabani-mallick?style=flat-square&color=c9a0dc&label=followers)](https://github.com/Srabani-mallick)
+[![GitHub followers](https://img.shields.io/github/followers/Srabani-mallick?style=flat-square&color=6a1b9a&label=followers)](https://github.com/Srabani-mallick)
 
 </div>
 
@@ -32,25 +32,25 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-f8b4c8?style=for-the-badge&logo=python&logoColor=4a4a4a)
-![Java](https://img.shields.io/badge/Java-f8b4c8?style=for-the-badge&logo=openjdk&logoColor=4a4a4a)
-![HTML5](https://img.shields.io/badge/HTML5-f8b4c8?style=for-the-badge&logo=html5&logoColor=4a4a4a)
-![CSS3](https://img.shields.io/badge/CSS3-f8b4c8?style=for-the-badge&logo=css3&logoColor=4a4a4a)
+![Python](https://img.shields.io/badge/Python-c2185b?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c2185b?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-c2185b?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-c2185b?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Django](https://img.shields.io/badge/Django-d5b8f0?style=for-the-badge&logo=django&logoColor=4a4a4a)
-![Flask](https://img.shields.io/badge/Flask-d5b8f0?style=for-the-badge&logo=flask&logoColor=4a4a4a)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-d5b8f0?style=for-the-badge&logo=scikitlearn&logoColor=4a4a4a)
-![Pandas](https://img.shields.io/badge/Pandas-d5b8f0?style=for-the-badge&logo=pandas&logoColor=4a4a4a)
+![Django](https://img.shields.io/badge/Django-7b1fa2?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-7b1fa2?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7b1fa2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7b1fa2?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Databases & Tools**
 
-![SQLite](https://img.shields.io/badge/SQLite-b8e8d0?style=for-the-badge&logo=sqlite&logoColor=4a4a4a)
-![MySQL](https://img.shields.io/badge/MySQL-b8e8d0?style=for-the-badge&logo=mysql&logoColor=4a4a4a)
-![Git](https://img.shields.io/badge/Git-b8e8d0?style=for-the-badge&logo=git&logoColor=4a4a4a)
-![GitHub](https://img.shields.io/badge/GitHub-b8e8d0?style=for-the-badge&logo=github&logoColor=4a4a4a)
-![VS Code](https://img.shields.io/badge/VS%20Code-b8e8d0?style=for-the-badge&logo=visualstudiocode&logoColor=4a4a4a)
+![SQLite](https://img.shields.io/badge/SQLite-00796b?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00796b?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00796b?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00796b?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00796b?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -87,21 +87,21 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=9c6b98&icon_color=b57bee&text_color=4a4a4a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Srabani-mallick&show_icons=true&hide_border=true&bg_color=1a0a1e&title_color=ce93d8&icon_color=f48fb1&text_color=ffffff"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=9c6b98&text_color=4a4a4a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani-mallick&layout=compact&hide_border=true&bg_color=1a0a1e&title_color=ce93d8&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani-mallick&hide_border=true&background=fff0f5&ring=d5b8f0&fire=f8b4c8&currStreakLabel=9c6b98&sideLabels=9c6b98&dates=4a4a4a&sideNums=b57bee&currStreakNum=b57bee" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani-mallick&hide_border=true&background=1a0a1e&ring=ce93d8&fire=f48fb1&currStreakLabel=ce93d8&sideLabels=ce93d8&dates=ffffff&sideNums=f48fb1&currStreakNum=f48fb1" width="55%"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=flat&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srabani-mallick&theme=darkhub&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -124,13 +124,13 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-f8b4c8?style=for-the-badge&logo=github&logoColor=4a4a4a)](https://github.com/Srabani-mallick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-d5b8f0?style=for-the-badge&logo=linkedin&logoColor=4a4a4a)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-c2185b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srabani-mallick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7b1fa2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f5e9,50:f3e5f5,100:fce4ec&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00796b,50:7b1fa2,100:c2185b&height=120&section=footer" width="100%"/>
 
 </div>
