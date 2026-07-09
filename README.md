@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=80cbc4&center=true&vCenter=true&width=550&lines=Computer+Science+Student+%F0%9F%8E%93;Django+%2B+Python+Full+Stack+Dev+%F0%9F%90%8D;Building+real+apps%2C+not+just+tutorials+%F0%9F%94%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Srabani-mallick&style=flat-square&color=004d40&label=profile+views)
-&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Srabani-mallick?style=flat-square&color=e65100&label=followers)](https://github.com/Srabani-mallick)
 
 </div>
@@ -47,7 +44,6 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 **Databases & Tools**
 
 ![SQLite](https://img.shields.io/badge/SQLite-e65100?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-e65100?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e65100?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e65100?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-e65100?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -69,18 +65,6 @@ I build full-stack web apps with Django, sprinkle in ML where it makes sense, an
 - Open source Python tools
 
 ---
-
-### 🏗️ featured projects
-
-| 🗂 project | 💡 what it does | ⚙️ stack |
-|---|---|---|
-| 🕵️ **Whodunit Live** | Multiplayer real-time murder mystery game | Django Channels · WebSockets |
-| 🏥 **Multi-Disease Predictor** | Predicts diabetes, heart disease & more | scikit-learn · Django |
-| 🏫 **Student ERP** | 10-module campus management platform | Django · SQLite |
-| 📝 **Quiz Platform** | Timed exams with auto-grading | Django · Python |
-| 🏠 **House Price Predictor** | Regression model with web UI | scikit-learn · Django |
-| 💸 **Smart Expense Tracker** | Spending forecast + anomaly detection | Django · scikit-learn |
-
 ---
 
 # 📊 GitHub Stats
